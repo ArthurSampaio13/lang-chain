@@ -28,7 +28,7 @@ poetry install
 Configure o arquivo de ambiente:  
 
 ```bash
-cp -l .env.example .env
+cp .env.example .env
 ```  
 
 ---
