@@ -118,6 +118,7 @@ A arquitetura do sistema é composta por três componentes principais:
 - **[FastEmbed](https://qdrant.github.io/fastembed/)**: Geração leve e rápida de embeddings.  
 - **[Streamlit](https://streamlit.io/)**: Ferramenta para criação de interfaces gráficas de aplicativos.  
 - **[PDFium](https://pdfium.googlesource.com/pdfium/)**: Biblioteca para processamento e extração de texto de PDFs.  
+- **[Taskipy](https://github.com/taskipy/taskipy)**: Ferramenta que facilita a execução de tarefas em projetos Python.
 
 ---
 
