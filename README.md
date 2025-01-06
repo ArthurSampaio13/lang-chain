@@ -2,9 +2,6 @@
 
 Com **ChatPDF**, você pode transformar seus PDFs em assistentes inteligentes, capazes de responder perguntas e interagir com seus documentos de forma eficiente.  
 
-
-## Link do deploy: [ChatPDF](https://chatpdflang.streamlit.app/)
-
 ---
 
 ![image](.github/image.png)
